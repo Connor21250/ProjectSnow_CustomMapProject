@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Finger
+  - Water
+  - UI
+  - Gorilla Grabable
+  - Gorilla Rope
+  - Gorilla Body Collider
+  - Gorilla Object
+  - Gorilla Hand
+  - 
+  - 
+  - 
+  - 
+  - Gorilla Boundary
+  - 
+  - Mirror
+  - GorillaInteractable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
